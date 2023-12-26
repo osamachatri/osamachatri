@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osamachatri
 - 👀 I’m interested in app mobile development 
-- 🌱 I’m currently learning Katlin language on level oop
+- 🌱 I’m currently learning android app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :FB&Instagram: Oussama chatri
 
